@@ -1,4 +1,4 @@
-# GALA-AI 🤖📊
+# GALA-AI 
 ### Asistente Contable Inteligente para Autónomos vía WhatsApp
 
 GALA-AI es una solución de **FinTech e Inteligencia Artificial** diseñada para automatizar la gestión fiscal y financiera de los trabajadores autónomos en España. Utilizando tecnologías de **Big Data y LLM**, el sistema permite la digitalización de facturas, la conciliación bancaria y la previsión de impuestos en tiempo real.
